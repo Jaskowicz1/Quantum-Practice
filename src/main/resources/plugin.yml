@@ -1,0 +1,5 @@
+name: Quantumpractice
+version: ${project.version}
+main: me.jaskowicz.quantumpractice.Quantumpractice
+api-version: 1.13
+description: A 1.16 practice core.
